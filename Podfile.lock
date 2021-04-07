@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - BadgeControl (1.2.1)
+  - Floaty (4.1.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - ObjectMapper (4.2.0)
+  - Result (4.1.0)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - WMSegmentControl (2.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - BadgeControl
+  - Floaty
+  - Moya
+  - ObjectMapper
+  - RxCocoa (= 6.1.0)
+  - RxSwift (= 6.1.0)
+  - WMSegmentControl
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - BadgeControl
+    - Floaty
+    - Moya
+    - ObjectMapper
+    - Result
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - WMSegmentControl
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  BadgeControl: 67036e7f586930bba15084dbf89ebce7aa2f2bc2
+  Floaty: 1a4e213f3512cf3045ef9cb0c1ff456226d1f66a
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  WMSegmentControl: 4bb3a61e28cd0a0fcfcf932bec1f5795835b9f3f
+
+PODFILE CHECKSUM: afda2fe89184b60b5abd3c59ca55aa2eaa2184ad
+
+COCOAPODS: 1.9.1
